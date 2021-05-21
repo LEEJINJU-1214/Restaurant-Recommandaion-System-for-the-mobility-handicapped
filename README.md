@@ -1,1 +1,1 @@
-# Restaurant-Recommandaion-System-for-the-mobility-handicapped
+# Restaurant Recommandaion System for the mobility handicapped
